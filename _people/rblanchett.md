@@ -1,5 +1,5 @@
 ---
-name: Ari Benjamin
+name: Reid Blanchett
 position: gradstudent
 avatar: reid.jpg
 joined: 2019
@@ -10,17 +10,17 @@ joined: 2019
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `blanch79@msu.edu`<br>
-<i class="fa fa-building"></i> IQ <br>
-<i class="fa fa-bar-chart"></i> [google scholar] <br>
+<i class="fa fa-building"></i>Genetics and Genome Sciences<br>
+
 
 <hr>
 
 ### Bio
 
-After graduating from Williams College with a degreee in physics, teaching high school chemistry for a year in Mexico, and obtaining a master's in nanoscale simulation and biomaterials at Northwestern, I joined this awesome lab for computational neuroscience! I'm all about nonlinear life trajectories, which is fair, since the brain is nonlinear too. 
+I graduated from Kalamazoo College and joined the Genetics and Genome Sciences program at Michigan State University. I work primarily computationally and love being a part of the Knickmeyer lab. I study brain structure and function using twins and explore the topic in the context of X-effects.
 
 <hr>
 
 ### Research Interests
 
-What does deep learning have to say about how the brain works? (How does deep learning work?) What is the most fruitful and insightful way to conceptualize the brain?
+I am very much intersted in the brain as well as psychiatric disorders. I love genetics and am excited to keep learning as I work through my PhD.
