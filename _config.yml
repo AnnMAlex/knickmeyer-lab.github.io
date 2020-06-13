@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "as called as Bayesian Behavior Lab"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab based in Rehabilitation Institute of Chicago and Northwestern University, Chicago"
+name:               "Knickmeyer Lab"
+title:              "Brains, Babies, and Bacteria"
+description:        "this is a page for the Rebecca Knickmeyer lab at Michigan State University"
 
 
 # URL
-url:                http://kordinglab.github.io
+url:                http://knickmeyer-lab.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
