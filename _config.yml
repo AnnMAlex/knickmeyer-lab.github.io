@@ -3,12 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Knickmeyer lab"
-title:              "Brains, babies, and bacteria"
-description:        "The webpage of Dr. Rebecca Knickmeyer's lab at Michigan State University"
+name:               "Kording lab"
+title:              "as called as Bayesian Behavior Lab"
+description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab based in Rehabilitation Institute of Chicago and Northwestern University, Chicago"
+
 
 # URL
-url:                http://knickmeyer-lab.github.io
+url:                http://kordinglab.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -29,10 +30,10 @@ nav:
     href:           "/publication"
   - name:           "people"
     href:           "/people"
-  - name:           "news"
-    href:           "/news"
-  - name:           "ORIGINS"
-    href:           "/ORIGINS"
+  - name:           "blog"
+    href:           "/blog"
+  - name:           "resources"
+    href:           "/resources"
 
 # Sass
 sass:
@@ -46,6 +47,12 @@ defaults:
       type:         "pages"
     values:
       layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
   -
     scope:
       path:         ""
