@@ -4,15 +4,21 @@ permalink: /about/
 ---
 
 ### About us
-We are a group of data scientists with interest in brains and, more general, biomedical research. Right at the moment, much of the research in the lab is about deep learning and its applications. However, we are now very much interested in causality and its links with machine learning.
+At present, treatments for psychiatric conditions such as autism and schizophrenia only ameliorate and manage symptoms, a cure is not possible. By the time clinical symptoms are recognized, the underlying pathological brain development has, in large part, already occurred and may be irreversible. Therefore, our best hope of making a major impact on these devastating disorders is through prevention and very early intervention. Infancy and early childhood represent a particularly promising period for intervention as this is the most plastic phase of postnatal human development, marked by explosive brain growth, the emergence of functional brain networks, and dramatic advances in cognitive ability and behavioral repertoire.
+
+The long-term goal of the Knickmeyer lab is to develop therapeutic interventions which could normalize adverse neurodevelopmental trajectories in infancy and early childhood, thereby preventing the onset of psychiatric disorders or reducing their severity. Our immediate goal is to identify genes and molecular pathways associated with altered brain development in infancy and early childhood through the integration of pediatric neuroimaging with cutting-edge techniques in genomics, metagenomics, and analytical chemistry.
 
 ### Research
-Making sense of data is possibly the biggest problem in Neuroscience and beyond. We build algorithms to analyze data. We also use theory as well as computational and [neural modeling](https://en.wikipedia.org/wiki/Computational_neuroscience) to understand how information is processed in the nervous system, explaining data obtained in collaboration with [electrophysiologists](https://en.wikipedia.org/wiki/Electrophysiology) and in [psychophysical](https://en.wikipedia.org/wiki/Psychophysics) experiments. Lastly, we constrain and develop new technologies aimed at obtaining data about brains.
+## Influence of the Gut Microbiota on Infant Brain Development
+The gut microbiome is a complex microbial ecosystem which varies between individuals and may be a key modulator of neurodevelopment. Projects in this area will utilize gnotobiotic mice, human clinical samples, neuroimaging, and neurobehavioral techniques to understand how microbes contribute to risk for anxiety, depression, and autism spectrum conditions.
 
+## Genetic Influences on Infant Brain Development
+Imaging-genetics represents a powerful strategy for understanding how genetic variants impact neural structure and function, producing individual differences in psychiatric risk. Large-scale cross-sectional studies in adolescents and adults are demonstrating the power of this framework, but cannot fully address the reality that mental illnesses are unfolding developmental processes, which commence in prenatal life and have different consequences at different life stages. The Knickmeyer lab is addressing this challenge by assembling a large and well-characterized imaging-genomics dataset focused on infancy through collaborations with world-leaders in infant neuroimaging. This effort is called ORIGIN (Organization for Imaging Genomics of Infancy) and is a working group of the ENIGMA consortium (Enhancing Neuro Imaging Genetics through Meta-Analysis). Specific goals include:
 
-Our conceptual work addresses information processing in the nervous system from two angles: (1) By analyzing and explaining electrophysiological data, we study what neurons do. (2) By analyzing and explaining human behavior, we study what all these neurons do together. Much of our work looks at these questions from a normative or causal viewpoint, asking what problems the nervous system should be solving. This often means taking a Bayesian approach. Bayesian decision theory is the systematic way of calculating how the nervous system may make good decisions in the presence of uncertainty. Causal inference from observational data promises to be a key enabler for progress in science.
-
-We've pursued projects that involve handshake greetings, human movement, [cell-phone related parkinson's research](http://journal.frontiersin.org/article/10.3389/fneur.2012.00158/abstract), competitions at [Kaggle](https://www.kaggle.com/), [meta-science analysis](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), data sharing initiatives, and [recording from all neurons in a mouse](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002291).
+## Identify genes influencing neurodevelopmental trajectories from birth to age 6 using univariate and multivariate GWAS approaches.
+Develop predictive models for cognitive ability and emotional functioning using genetic variation, environmental risk factors, and neuroimaging phenotypes, and
+Clarify how genetic risk for psychiatric disease manifests in infancy and early childhood.
+Sexual Differentiation of the Human Brain: Relative risk levels for many psychiatric disorders are dramatically different in males and females. It has been hypothesized that the prevalence and expression of these disorders are related to sex differences in brain development and that X-chromosome effects and early exposure to gonadal hormones (especially androgens and estrogens) are strong candidates for a causal role. Projects in this area include neuroimaging studies of typical children and individuals with Turner syndrome (TS), a well-defined genetic disorder resulting from partial or complete loss of one of the sex chromosomes.
 
 
 ### Lab Members
@@ -22,37 +28,8 @@ Our research group is remarkably interdisciplinary. Our interests span statistic
 
 ### Publications
 
-For PDFs of our work, visit our [publications page](http://kordinglab.com/publication/). Feel free to [issue on Github](https://github.com/KordingLab/KordingLab.github.io/issues) if links don't work or are obsolete.
+For PDFs of our work, visit our [publications page](http://knickmeyer-lab.github.io/publications).
 
-
-### Collaborators
-
-Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
-
-**University of Pennsylvania:**
-- [David Issadore - Dept of Bioengineering](http://cnt.upenn.edu/david-issadore)
-- [Jay Gottfried - Dept of Neurology](http://labs.feinberg.northwestern.edu/gottfried/)
-- [Raquel and Ruben Gur - Dept of Neuropsychiatry](http://www.med.upenn.edu/bbl/faculty-regur.html)
-- [Maria Geffen - Dept of Otorhinolaryngology](https://geffenlab.weebly.com/)
-- [Yale Cohen - Dept of Otorhinolaryngology](http://auditoryresearchlaboratory.weebly.com/)
-- [Dani Bassett - Dept of Bionengineering](https://www.danisbassett.com/)
-- [Andrew Tsourkas - Dept of Bioengineering](http://www.seas.upenn.edu/~atsourk/)
-- [Jason Moore - Dept of Biostatistics](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8803452)
-- [Lyle Ungar - Dept of CIS](http://www.cis.upenn.edu/~ungar/)
-
-**Northwestern University:**
-- [Lee Miller - Depts of Physiology and BME](http://physio.northwestern.edu/)
-- [Mark Segraves - Depts of Neurobiology and Physiology](http://www.neurobiology.northwestern.edu/people/core-faculty/mark-segraves.html)
-- [Matt Tresch - Depts of Physiology and BME](http://www.mccormick.northwestern.edu/biomedical/)
-- [David Mohr - Dept of Preventive medicine](http://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=17234)
-
-
-**External:**
-
-- [Scott Grafton - UCSB](https://www.psych.ucsb.edu/people/faculty/grafton)
-- [Nicho Hatsopoulos - University of Chicago](http://pondside.uchicago.edu/oba/faculty/Hatsopoulos/lab/)
-- [Peter Strick - University of Pittsburgh](http://www.cnbc.cmu.edu/faculty/strick-peter-l/view-details)
-- [Mriganka Sur - MIT](http://surlab.mit.edu/)
-- [Rob Turner - University of Pittsburgh](http://www.neurobio.pitt.edu/faculty/turner.htm)
+### ORIGINS
 
 
