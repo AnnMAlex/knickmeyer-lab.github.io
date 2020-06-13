@@ -15,12 +15,10 @@ permalink: /people/
 <h3>Principal Investigator</h3>
  {% elsif item == 'gradstudent' %}
 <h3>Graduate Students</h3>
- {% elsif item == 'visiting' %}
-<h3>Lab Manager</h3>
  {% elsif item == 'labmanager' %}
-<h3>Undergraduate Students</h3>
+<h3>Lab Manager</h3>
  {% elsif item == 'undergrad' %}
-{% endif %}
+<h3>Undergraduate Students</h3>
 </div>
 
 <div class="content list people">
