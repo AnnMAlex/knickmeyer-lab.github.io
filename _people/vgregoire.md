@@ -1,7 +1,7 @@
 ---
 name: Villisha Gregoire
 position: gradstudent
-avatar: villisha.jpg
+avatar: Villisha.jpg
 joined: 2019
 ---
 
