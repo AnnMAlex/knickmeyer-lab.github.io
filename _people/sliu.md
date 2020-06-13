@@ -1,7 +1,7 @@
 ---
 name: Sheng Liu
 position: labmanager
-avatar: sheng.jpg
+avatar: sheng3.jpg
 joined: 2019
 ---
 
