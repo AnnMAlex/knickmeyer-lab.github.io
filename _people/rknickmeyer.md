@@ -1,8 +1,7 @@
 ---
 name: Rebecca Knickmeyer
 position: pi
-avatar: konrad_profile_3.jpg
-twitter: KordingLab
+avatar: rebecca.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
