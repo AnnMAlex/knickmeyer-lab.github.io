@@ -6,7 +6,7 @@ avatar: Jessica.jpg
 
 <img width="300" src="{{site.baseurl}}/images/origins/{{page.avatar}}" data-action="zoom">
 
-_Department of Pediatrics and Human Development_<br>
+_Postdoctoral Fellow_<br>
 
 
 <i class="fa fa-envelope-o"></i> `jbgirault@unc.edu`
