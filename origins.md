@@ -4,7 +4,7 @@ permalink: /ORIGINS/
 ---
 
 {% assign people_sorted = (site.people | sort: 'joined' %}
-{% assign people_array = "MSU|UNC|CCG|CS|MPI|others" | split: "|" %}
+{% assign people_array = "MSU|UNC|CCG|CS|MPI" | split: "|" %}
 
 {% for item in people_array %}
 
